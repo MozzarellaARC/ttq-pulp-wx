@@ -21,7 +21,8 @@ C:\Users\YourName\AppData\Roaming\Blender Foundation\Blender\4.5\scripts\modules
 this solution is not machine agnostic meaning: 
 - it needs to know Blender version
 - it needs to know your actual username
-- it neds to know whether the preferences directory has been created, which is a specific problem in Windows where this directory is not being created on the newly installed Blender.
+- it neds to know whether the preferences directory has been created, which is a specific problem in Windows where this directory is not being created on the newly installed Blender.\
+- it needs to know your actual blender installation directory, this solution assumes, your Blender is located in `C:\Program Files\ Blender Foundation\...`
 
 ## Credits
 
