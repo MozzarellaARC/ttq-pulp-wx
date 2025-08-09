@@ -4,7 +4,7 @@
 
 Add a proper command line arguments for Windows Powershell cli to install PulP python external package into Blender working environment. More specifically to tackle missing PulP package issue in Windows operating system when using Tris to Quads addon originally made by Tsutomu Saito
 
-*copy this cli args to windows powershell, and change ***YourName*** with your actual user name:*
+*copy this cli args to windows powershell, and change ***YourName*** with your actual user name and change Blender version to the one that you use:*
 
 ## Proper PulP Installation
 ```
